@@ -1,0 +1,33 @@
+body {
+    background-color:aquamarine;
+    width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+
+h2 {
+    font-family: fantasy;
+}
+
+img {
+    width: 100%;
+}
+
+.news {
+    width: 350px;
+    height: 300px;
+    margin-bottom: 15px;
+    overflow: scroll;
+    padding: 30px;
+    border: 5px solid cornflowerblue;
+}
+
+.food {
+    width: 350px;
+    height: 300px;
+    margin-bottom: 15px;
+    overflow: scroll;
+    padding: 30px;
+    border: 5px solid cornflowerblue;
+}
